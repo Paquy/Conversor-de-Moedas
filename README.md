@@ -1,6 +1,10 @@
-# conversor
+# Conversor de Moedas, Flutterando
 
-Conversor de moeda
+Utilizei o padrão de arquitetura MVC (Model View Controller). Para montar o layout utilizei dois Dropdowns e dois TextFields, para reduzir o codigo realizei uma componentização do DropDown e do TextField. 
+
+Para testar a conversão, efetuei testes unitários. 
+
+![Teste Unitário](https://user-images.githubusercontent.com/83305912/188748563-6b1a8235-2b11-40ed-bb1a-47e626d4eae7.png)
 
 ## Getting Started
 
